@@ -20,7 +20,10 @@ var (
 func main() {
 	flag.Parse()
 	if *token == "" {
-		log.Fatal("missing token")
+		*token = os.Getenv("BOT_TOKEN")
+		if *token == "" {
+			log.Fatal("missing token")
+		}
 	}
 
 	discord, err := discordgo.New("Bot " + *token)
