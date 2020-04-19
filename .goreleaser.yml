@@ -6,7 +6,7 @@ before:
     - go mod download
     # you may remove this if you don't need go generate
     # - go generate ./...
-docker:
+dockers:
   - image_templates:
       - "cfi2017/bl3-bot:latest"
       - "cfi2017/bl3-bot:v{{.Tag}}"
