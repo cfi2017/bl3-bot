@@ -9,7 +9,7 @@ before:
 dockers:
   - image_templates:
       - "cfi2017/bl3-bot:latest"
-      - "cfi2017/bl3-bot:v{{.Tag}}"
+      - "cfi2017/bl3-bot:{{.Tag}}"
       - "cfi2017/bl3-bot:v{{.Major}}"
     skip_push: auto
     extra_files:
