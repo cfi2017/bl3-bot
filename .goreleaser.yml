@@ -15,6 +15,10 @@ dockers:
     extra_files:
       - "balance_to_inv_key.json"
       - "inventory_raw.json"
+    binaries:
+      - bl3-bot
+    builds:
+      - bl3-bot
 builds:
   - env:
       - CGO_ENABLED=0
