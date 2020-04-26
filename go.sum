@@ -16,6 +16,14 @@ github.com/cfi2017/bl3-save v1.0.2 h1:EGicybcwAWSDwKSoNHEHDPQL/dK1ipAuS+y9WXRJ3i
 github.com/cfi2017/bl3-save v1.0.2/go.mod h1:qlJs+0vEVzpYH+0ZdyPXv7o+XHW3Z5uTDHKHIBXsxz4=
 github.com/cfi2017/bl3-save v1.0.3 h1:Xha3pahtoYHw8Z6hRNxytVl2Zry5VfOjbeeByMA7pBQ=
 github.com/cfi2017/bl3-save v1.0.3/go.mod h1:qlJs+0vEVzpYH+0ZdyPXv7o+XHW3Z5uTDHKHIBXsxz4=
+github.com/cfi2017/bl3-save v1.0.14 h1:UMXJasE8DuSqIzq65Srt+Pi/f/0/0dTZM13SUtyCebc=
+github.com/cfi2017/bl3-save v1.0.14/go.mod h1:ZerjKsoR7InyH2Z6FA8anmS+s7FsBPZmTVdMVaYEtHo=
+github.com/cfi2017/bl3-save v1.0.15 h1:uaat5nYkLIdybQ4VrbojBBzbC1/6WYOv1GomtKgL1XI=
+github.com/cfi2017/bl3-save v1.0.15/go.mod h1:dX/rJa/vM+iBSDFu/j8aAr7lld0Jssh3jwg1sYoLFbg=
+github.com/cfi2017/bl3-save-core v1.0.1 h1:R2VdkxbKq8ahJ4KDVfYCRU46P0mSmnK5h0Ys4yGtg3Y=
+github.com/cfi2017/bl3-save-core v1.0.1/go.mod h1:YV/PucmAhOAspofYbsys0dCm8qTAdsPPQuRvjjjjunM=
+github.com/cfi2017/bl3-save-core v1.0.2 h1:1LEi0fxP3qam0K43c0WM+GYi3L5otdvBLu7Y8e4C9AM=
+github.com/cfi2017/bl3-save-core v1.0.2/go.mod h1:YV/PucmAhOAspofYbsys0dCm8qTAdsPPQuRvjjjjunM=
 github.com/cfi2017/dgcobra v0.0.0-20200309102910-1d14dde1fca9 h1:+sDwPOnz6AK7Nw5K6vx1YEHSGZnvnsFLCzPyB2BaBDk=
 github.com/cfi2017/dgcobra v0.0.0-20200309102910-1d14dde1fca9/go.mod h1:/9wTJVWGp5SS1FliatuSpQXNwEQ1LYHUodvMVdGSfjU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
@@ -233,6 +241,8 @@ golang.org/x/sys v0.0.0-20200116001909-b77594299b42/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20200408040146-ea54a3c99b9b/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20200413165638-669c56c373c4 h1:opSr2sbRXk5X5/givKrrKj9HXxFpW2sdCiP8MJSKLQY=
 golang.org/x/sys v0.0.0-20200413165638-669c56c373c4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f h1:gWF768j/LaZugp8dyS4UwsslYCYz9XgFxvlgsn0n9H8=
+golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
 golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
